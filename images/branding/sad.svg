@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <title>Sad face</title>
+
+  <circle cx="300" cy="300" r="230" fill="#0F172A" />
+  <circle cx="300" cy="300" r="210" fill="#F1F5F9" />
+
+  <g fill="#0F172A" stroke="#0F172A" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M205 235 Q245 195 280 185" fill="none" stroke-width="22" />
+    <path d="M395 235 Q355 195 320 185" fill="none" stroke-width="22" />
+    <circle cx="235" cy="275" r="25" />
+    <circle cx="365" cy="275" r="25" />
+    <path d="M215 390 Q300 325 385 390" fill="none" stroke-width="25" />
+  </g>
+
+  <path
+    d="M400 285
+           C425 320 438 345 438 365
+           C438 395 420 415 400 415
+           C380 415 362 395 362 365
+           C362 345 375 320 400 285 Z"
+    fill="#F97316" />
+</svg>
